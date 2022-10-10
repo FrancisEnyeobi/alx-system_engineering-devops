@@ -1,2 +1,2 @@
-chmod u+x 1-confused_smiley
+#!/bin/bash
 cat /etc/passwd /etc/hosts
